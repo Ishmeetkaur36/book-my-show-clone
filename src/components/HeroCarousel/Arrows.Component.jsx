@@ -1,9 +1,9 @@
-import React from 'react';
+// import React from 'react';
 
-const Arrows = () => {
-    return <div>Arrows</div>;
+// const Arrows = () => {
+//     return <div>Arrows</div>;
     
-}
-export default PrevArrow(props) {};
-export default NextArrow(props) {};
+// }
+// export default PrevArrow(props) {};
+// export default NextArrow(props) {};
 

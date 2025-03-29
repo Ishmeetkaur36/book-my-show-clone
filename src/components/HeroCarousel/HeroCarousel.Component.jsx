@@ -43,8 +43,8 @@ const HeroCarousel = () => {
     slidesToShow: 1,
     infinite: true,
     slideToScroll: 1,
-    nextArrow: ,
-    prevArrow: 
+    // nextArrow: ,
+    // prevArrow: 
   };
 
   const settings = {
